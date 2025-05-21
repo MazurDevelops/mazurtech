@@ -17,7 +17,7 @@ Sou um entusiasta da tecnologia e desenvolvimento web, com foco atual na criaç�
 
 ## Contato  
 💼 [LinkedIn](https://www.linkedin.com/in/cemazur/)  
-📫 [cmaazur@gmail.com]  
+📫 cmaazur@gmail.com  
 
 ---
 
