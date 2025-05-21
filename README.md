@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o MazurTech 👋
 
-<!--
-**mazurtech/mazurtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia e desenvolvimento web, focado em Front-End com HTML, CSS e JavaScript. Estou sempre aprendendo e aprimorando minhas habilidades para criar soluções práticas e eficientes.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🎓 Graduado em Direito, atualmente cursando Engenharia de Software  
+- 💻 Apaixonado por programação e tecnologia  
+- 🚀 Objetivo: me tornar um desenvolvedor Full Stack  
+- 📚 Atualmente estudando lógica de programação, algoritmos e front-end  
+- ⚡ Curioso, dedicado e sempre em busca de novos desafios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- 📫 cmaazur@gmail.com
+- 🔗 linkedin.com/in/cemazur  
+
+Sinta-se à vontade para explorar meus projetos e contribuir!  
+Vamos codar juntos? 💻✨
+
+---
+
+*Powered by mazurtech*
