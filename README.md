@@ -1,21 +1,25 @@
 # Olá, eu sou o MazurTech 👋
 
-Sou um entusiasta da tecnologia e desenvolvimento web, focado em Front-End com HTML, CSS e JavaScript. Estou sempre aprendendo e aprimorando minhas habilidades para criar soluções práticas e eficientes.
+Sou um entusiasta da tecnologia e desenvolvimento web, com foco atual na criação de interfaces modernas e responsivas.
 
 ## Sobre mim
-- 🎓 Graduado em Direito, atualmente cursando Engenharia de Software  
-- 💻 Apaixonado por programação e tecnologia  
-- 🚀 Objetivo: me tornar um desenvolvedor Full Stack  
-- 📚 Atualmente estudando lógica de programação, algoritmos e front-end  
-- ⚡ Curioso, dedicado e sempre em busca de novos desafios
 
-## Contato
-- 📫 cmaazur@gmail.com
-- 🔗 linkedin.com/in/cemazur  
+🎓 Graduado em Direito e atualmente cursando Engenharia de Software  
+💻 Transição de carreira motivada pela paixão por tecnologia e resolução de problemas  
+✨ Atualmente, estou aprofundando meus estudos em programação e desenvolvi um grande interesse pela área de **Front-End**. Meu foco está totalmente voltado para o desenvolvimento de interfaces, buscando dominar tecnologias como **HTML, CSS e JavaScript**.  
+🌐 Apesar do foco atual, tenho o objetivo de expandir meus conhecimentos para o **Back-End** e, futuramente, atuar como **desenvolvedor Full-Stack**
 
-Sinta-se à vontade para explorar meus projetos e contribuir!  
-Vamos codar juntos? 💻✨
+## Tecnologias em estudo
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Lógica de Programação
+- Git e GitHub
+
+## Contato  
+💼 [LinkedIn](https://www.linkedin.com/in/cemazur/)  
+📫 [cmaazur@gmail.com]  
 
 ---
 
 *Powered by mazurtech*
+
