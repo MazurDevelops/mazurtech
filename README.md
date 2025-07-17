@@ -1,4 +1,4 @@
-# Olá, eu sou o MazurTech 👋
+# Olá, eu sou o MazurDevelops 👋
 
 Sou um entusiasta da tecnologia e desenvolvimento web, com foco atual na criação de interfaces modernas e responsivas.
 
